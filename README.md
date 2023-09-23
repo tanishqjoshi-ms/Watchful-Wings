@@ -26,6 +26,6 @@ situations.
 # Structure of the repository:
 
 1. notebook folder: It contains the ipynb files to individually test the detection and recognition algorithms, also contains files for finetuning.
-2. videos folder: It contains the demo videos drive link in the readme of the working of the web interface for better understanding and reference.
+2. report folder: It contains the complete report of our project 
 3. templates folder: It contains the files for the web interface containing the front end code.
 4. webstreaming_master.py: The python file contains the backend part integrating the model to web interface.
